@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MagoOscuro91](https://github.com/MagoOscuro91)
 
-- 💬 Ask me about **Python, Reflex**
+- 💬 Ask me about **Python, Reflex...**
 
 - 📫 How to reach me, on Discord **MagoOscuro91#0225**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
