@@ -1,9 +1,9 @@
 <h1 align="center">HOLA 👋, Mi nombre es Jonathan B.v.</h1>
-<h3 align="center">Soy Estudiante Autodidacta de Python.</h3>
+<h3 align="center">Soy Estudiante Autodidacta de Computer science.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MagoOscuro91&label=Profile%20views&color=0e75b6&style=flat" alt="MagoOscuro91" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MagoOscuro91](https://github.com/MagoOscuro91)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MagoOscuro91/) [Scratch](https://scratch.mit.edu/users/MagoOscuro91/)
 
 - 💬 Ask me about **Python, Reflex...**
 
